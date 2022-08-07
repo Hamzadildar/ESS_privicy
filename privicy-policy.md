@@ -83,4 +83,4 @@ Current versions of web browsers offer enhanced user controls regarding the plac
 ## Changes to our privacy policy
 Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
 ## Contact
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to admin@polkawallet.io.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@dynamicssolution.com.
